@@ -7,33 +7,33 @@
 </head>
 <body>
     <!--Page header-->
-    <header>
-        <nav>
-          <a href="./index.html">WebStudio</a>
+<header>
+    <nav>
+        <a href="./index.html">WebStudio</a>
+        <ul>
+             <li>
+                <a href="./index.html">Studio</a>                          
+            </li>
+            <li>
+                <a href="">Portfolio</a>
+            </li>
+            <li>
+                <a href="">Contacts</a>
+            </li>
+        </ul>
+        <address>
             <ul>
                 <li>
-                    <a href="./index.html">Studio</a>                          
+                    <a href="mailto:info@devstudio.com">info@devstudio.com</a>
                 </li>
                 <li>
-                    <a href="">Portfolio</a>
-                </li>
-                <li>
-                    <a href="">Contacts</a>
+                    <a href="tell:+110001111111">+11 (000) 111-11-11</a>
                 </li>
             </ul>
-            <address>
-                <ul>
-                    <li>
-                        <a href="mailto:info@devstudio.com">info@devstudio.com</a>
-                    </li>
-                    <li>
-                        <a href="tell:+110001111111">+11 (000) 111-11-11</a>
-                    </li>
-                </ul>
-            </address>
-        </nav>
-    </header>
-    <main>
+        </address>
+    </nav>
+</header> 
+<main>
         <!--Enter-->
         <section>
             <h1>Effective Solutions <br>
@@ -104,10 +104,10 @@
                     </li>
                 </ul>
         </section>
-    </main> 
-    <footer>
+</main> 
+<footer>
         <a href="./index.html">WebStudio</a>
             <p>Increase the flow of customers and sales for your business with digital marketing & growth solutions.</p>
-    </footer>
+</footer>
 </body>
 </html>
