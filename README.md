@@ -10,15 +10,17 @@
         <a href="./index.html">WebStudio</a>
         <ul>
              <li>
-                <a href="./index.html">Studio</a>                          
+                <a href="#studio">Studio</a>                          
             </li>
             <li>
-                <a href="">Portfolio</a>
+                <a href="#portfolio">Portfolio</a>
             </li>
             <li>
-                <a href="">Contacts</a>
-                <address>
-                 <ul>
+                <a href="#contacts">Contacts</a>
+            </li>
+        </ul>
+        <address>
+            <ul>
                 <li>
                     <a href="mailto:info@devstudio.com">info@devstudio.com</a>
                 </li>
@@ -26,8 +28,7 @@
                     <a href="tell:+110001111111">+11 (000) 111-11-11</a>
                 </li>
             </ul>
-                </address>
-            </li>
+        </address>
     </nav>
 </header> 
 <main>
