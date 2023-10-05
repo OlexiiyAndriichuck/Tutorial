@@ -9,8 +9,8 @@
     <!--Page header-->
 <header>
     <nav>
+        <a href="./index.html">WebStudio</a>
         <ul>
-            <a href="./index.html">WebStudio</a>
              <li>
                 <a href="./index.html">Studio</a>                          
             </li>
