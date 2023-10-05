@@ -6,8 +6,8 @@
     <title>WebStudio</title>
 </head>
 <body>
-<header>
-    <nav>
+    <header>
+        <nav>
         <a href="./index.html">WebStudio</a>
         <ul>
              <li>
@@ -20,8 +20,8 @@
                 <a href="#contacts">Contacts</a>
             </li>
         </ul>
-    </nav>
-    <address>
+        </nav>
+        <address>
         <ul>
             <li>
                 <a href="mailto:info@devstudio.com">info@devstudio.com</a>
@@ -30,9 +30,9 @@
                 <a href="tel:110001111111">+11 (000) 111-11-11</a>
             </li>
         </ul>
-    </address>
-</header> 
-<main>
+        </address>
+    </header> 
+    <main>
         <section>
             <h1>Effective Solutions for Your Business</h1>
             <button type="button">Order Service</button>
@@ -100,10 +100,10 @@
                     </li>
                 </ul>
         </section>
-</main> 
-<footer>
+    </main> 
+    <footer>
         <a href="./index.html">WebStudio</a>
             <p>Increase the flow of customers and sales for your business with digital marketing & growth solutions.</p>
-</footer>
+    </footer>
 </body>
 </html>
