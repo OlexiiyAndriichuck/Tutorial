@@ -20,14 +20,14 @@
             </li>
         </ul>
         <address>
-            <ul>
+            <ol>
                 <li>
                     <a href="mailto:info@devstudio.com">info@devstudio.com</a>
                 </li>
                 <li>
                     <a href="tell:+110001111111">+11 (000) 111-11-11</a>
                 </li>
-            </ul>
+            </ol>
         </address>
     </nav>
 </header> 
