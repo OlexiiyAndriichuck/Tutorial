@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 9bb3a5f8997b2b83383d6140d33ad86fc527569f
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -30,8 +33,6 @@
                 <a href="tell:+110001111111">+11 (000) 111-11-11</a>
             </li>
            </ul>
-
-
         </nav>
     </header>
     <main>
@@ -66,7 +67,11 @@
         </section>
         <!--Employees-->
         <section>
+<<<<<<< HEAD
             <h2></H2>
+=======
+            <h2>Our Team/h2>
+>>>>>>> 9bb3a5f8997b2b83383d6140d33ad86fc527569f
                 <ul>
                     <li>
                         <img src="./css/images/mark-guerrero.jpg" 
@@ -109,9 +114,17 @@
         </section>
     </main> 
     <footer>
+<<<<<<< HEAD
         <h2>Web
             Studio</h2>
             <p>Increase the flow of customers and sales for your business with digital marketing & growth solutions.</p>
     </footer>
 </body>
 </html>
+=======
+        <h2>Web Studio</h2>
+            <p>Increase the flow of customers and sales for your business with digital marketing & growth solutions.</p>
+    </footer>
+</body>
+</html>
+>>>>>>> 9bb3a5f8997b2b83383d6140d33ad86fc527569f
