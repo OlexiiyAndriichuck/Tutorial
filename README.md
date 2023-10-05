@@ -36,7 +36,8 @@
     <main>
         <!--Enter-->
         <section>
-            <h2>Effective Solutions for Your Business</h2>
+            <h1>Effective Solutions <br>
+                for Your Business</h1>
             <button type="button">Order Service</button>
         </section>
         <!--Description-->
