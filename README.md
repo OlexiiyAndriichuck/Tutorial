@@ -36,14 +36,16 @@
 <main>
         <!--Enter-->
         <section>
-            <h2>Effective Solutions <br>
+            <h2>Effective Solutions 
                 for Your Business</h2>
             <button type="button">Order Service</button>
         </section>
         <!--Description-->
         <section>
         <ul>
-            <li><h3>Strategy</h3>
+            <h2>Description</h2>
+            <li>
+                <h3>Strategy</h3>
                 <p>Our goal is to identify the business
                     problem to walk away with the perfect and creative solution. </p>
             </li>
