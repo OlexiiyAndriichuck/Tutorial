@@ -21,21 +21,22 @@
                     <a href="">Contacts</a>
                 </li>
             </ul>
-           <ul>
-            <li>
-                <a href="mailto:info@devstudio.com">info@devstudio.com</a>
-            </li>
-            <li>
-                <a href="tell:+110001111111">+11 (000) 111-11-11</a>
-            </li>
-           </ul>
+            <address>
+                <ul>
+                    <li>
+                        <a href="mailto:info@devstudio.com">info@devstudio.com</a>
+                    </li>
+                    <li>
+                        <a href="tell:+110001111111">+11 (000) 111-11-11</a>
+                    </li>
+                   </ul>
+            </address>
         </nav>
     </header>
     <main>
         <!--Enter-->
         <section>
-            <h1>Effective Solutions
-                for Your Business</h1>
+            <h2>Effective Solutions for Your Business</h2>
             <button type="button">Order Service</button>
         </section>
         <!--Description-->
@@ -63,10 +64,10 @@
         </section>
         <!--Employees-->
         <section>
-            <h2></H2>
+            <h2>Our Team</H2>
                 <ul>
                     <li>
-                        <img src="./css/images/mark-guerrero.jpg" 
+                        <img src="./css/images.jpg/mark-guerrero.jpg" 
                         alt="mark-guerrero"
                         width="264"
                         height="260"
@@ -75,7 +76,7 @@
                         <p>Product Designer</p>
                     </li>
                     <li>
-                        <img src="./css/images/tom-ford.jpg" 
+                        <img src="./css/images.jpg/tom-ford.jpg" 
                         alt="tom-ford"
                         width="264"
                         height="260"
@@ -84,7 +85,7 @@
                         <p>Frontend Developer</p>
                     </li>
                     <li>
-                        <img src="./css/images/camila-garcia.jpg" 
+                        <img src="./css/images.jpg/camila-garcia.jpg" 
                         alt="camila-garcia"
                         width="264"
                         height="260"
@@ -93,7 +94,7 @@
                         <p>Marketing</p>
                     </li>
                     <li>
-                        <img src="./css/images/daniel-wilson.jpg" 
+                        <img src="./css/images.jpg/daniel-wilson.jpg" 
                         alt="daniel-wilson"
                         width="264"
                         height="260"
@@ -105,7 +106,7 @@
         </section>
     </main> 
     <footer>
-        <h2>Web Studio</h2>
+        <a href="./index.html">Web studio</a>
             <p>Increase the flow of customers and sales for your business with digital marketing & growth solutions.</p>
     </footer>
 </body>
