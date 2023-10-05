@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> 9bb3a5f8997b2b83383d6140d33ad86fc527569f
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -67,11 +63,7 @@
         </section>
         <!--Employees-->
         <section>
-<<<<<<< HEAD
             <h2></H2>
-=======
-            <h2>Our Team/h2>
->>>>>>> 9bb3a5f8997b2b83383d6140d33ad86fc527569f
                 <ul>
                     <li>
                         <img src="./css/images/mark-guerrero.jpg" 
@@ -109,22 +101,12 @@
                         <h3>Daniel Wilson</h3>
                         <p>UI Designer</p>
                     </li>
-                    
                 </ul>
         </section>
     </main> 
     <footer>
-<<<<<<< HEAD
-        <h2>Web
-            Studio</h2>
-            <p>Increase the flow of customers and sales for your business with digital marketing & growth solutions.</p>
-    </footer>
-</body>
-</html>
-=======
         <h2>Web Studio</h2>
             <p>Increase the flow of customers and sales for your business with digital marketing & growth solutions.</p>
     </footer>
 </body>
 </html>
->>>>>>> 9bb3a5f8997b2b83383d6140d33ad86fc527569f
