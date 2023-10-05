@@ -1,4 +1,3 @@
-# Tutorial
 
 <!DOCTYPE html>
 <html lang="en">
