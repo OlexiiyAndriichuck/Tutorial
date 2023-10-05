@@ -9,8 +9,8 @@
     <!--Page header-->
 <header>
     <nav>
-        <a href="./index.html">WebStudio</a>
         <ul>
+            <a href="./index.html">WebStudio</a>
              <li>
                 <a href="./index.html">Studio</a>                          
             </li>
@@ -36,8 +36,7 @@
 <main>
         <!--Enter-->
         <section>
-            <h2>Effective Solutions 
-                for Your Business</h2>
+            <h1>Effective Solutions for Your Business</h1>
             <button type="button">Order Service</button>
         </section>
         <!--Description-->
