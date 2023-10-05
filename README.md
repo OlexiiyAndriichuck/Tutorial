@@ -1,6 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
+<head lang="en">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>WebStudio</title>
@@ -18,10 +17,8 @@
             </li>
             <li>
                 <a href="">Contacts</a>
-            </li>
-        </ul>
-        <address>
-            <ul>
+                <address>
+                 <ul>
                 <li>
                     <a href="mailto:info@devstudio.com">info@devstudio.com</a>
                 </li>
@@ -29,7 +26,8 @@
                     <a href="tell:+110001111111">+11 (000) 111-11-11</a>
                 </li>
             </ul>
-        </address>
+                </address>
+            </li>
     </nav>
 </header> 
 <main>
