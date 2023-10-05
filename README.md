@@ -6,7 +6,6 @@
     <title>WebStudio</title>
 </head>
 <body>
-    <!--Page header-->
 <header>
     <nav>
         <a href="./index.html">WebStudio</a>
@@ -34,12 +33,10 @@
     </nav>
 </header> 
 <main>
-        <!--Enter-->
         <section>
             <h1>Effective Solutions for Your Business</h1>
             <button type="button">Order Service</button>
         </section>
-        <!--Description-->
         <section>
         <ul>
             <h2>Description</h2>
@@ -62,7 +59,6 @@
             </li>
         </ul>
         </section>
-        <!--Employees-->
         <section>
             <h2>Our Team</H2>
                 <ul>
