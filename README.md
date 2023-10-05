@@ -43,8 +43,7 @@
         <!--Description-->
         <section>
         <ul>
-            <li>
-                <h3>Strategy</h3>
+            <                <h3>Strategy</h3>
                 <p>Our goal is to identify the business
                     problem to walk away with the perfect and creative solution. </p>
             </li>
@@ -68,7 +67,7 @@
             <h2>Our Team</H2>
                 <ul>
                     <li>
-                        <img src="./css/images/mark-guerrero.jpg" 
+                        <img src="./images/mark-guerrero.jpg" 
                         alt="mark-guerrero"
                         width="264"
                         height="260"
@@ -77,7 +76,7 @@
                         <p>Product Designer</p>
                     </li>
                     <li>
-                        <img src="./css/images/tom-ford.jpg" 
+                        <img src="./images/tom-ford.jpg" 
                         alt="tom-ford"
                         width="264"
                         height="260"
@@ -86,7 +85,7 @@
                         <p>Frontend Developer</p>
                     </li>
                     <li>
-                        <img src="./css/images/camila-garcia.jpg" 
+                        <img src="./images/camila-garcia.jpg" 
                         alt="camila-garcia"
                         width="264"
                         height="260"
@@ -95,7 +94,7 @@
                         <p>Marketing</p>
                     </li>
                     <li>
-                        <img src="./css/images/daniel-wilson.jpg" 
+                        <img src="./images/daniel-wilson.jpg" 
                         alt="daniel-wilson"
                         width="264"
                         height="260"
